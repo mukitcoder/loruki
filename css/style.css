@@ -317,7 +317,8 @@ code,pre {
   }
 }
 
-/* Tablets and under */
+/* Tablets and under tablets */
+
 @media (max-width: 768px) {
   .grid,
   .showcase .grid,
@@ -370,6 +371,7 @@ code,pre {
 }
 
 /* Mobile */
+
 @media (max-width: 500px) {
   .navbar {
     height: 110px;
@@ -388,6 +390,3 @@ code,pre {
     width: 300px;
   }
 }
-
-
-/* new */
