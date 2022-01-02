@@ -30,8 +30,7 @@ a {
   color: #333;
 }
 
-h1,
-h2 {
+h1,h2 {
   font-weight: 300;
   line-height: 1.2;
   margin: 10px 0;
@@ -45,8 +44,7 @@ img {
   width: 100%;
 }
 
-code,
-pre {
+code,pre {
   background: #333;
   color: #fff;
   padding: 10px;
